@@ -13,6 +13,6 @@ while True:
     if userInput == computerSelection:
         print("It's a tie!")
     elif((userInput == "rock" and computerSelection == "paper") or (userInput == "paper" and computerSelection == "scissors") or (userInput == "rock" and computerSelection == "scissors")):
-        print("You Lose!")
-    else:
-        print("You Win!")
+        console.log("You Lose!")
+    elif:
+        console.log("You Win!")
